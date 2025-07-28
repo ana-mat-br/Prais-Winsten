@@ -1,19 +1,17 @@
 {
-    "id": "95F889C6",
-    "path": "~/Documents/Documentos - iMac de Ana/UFTM 2025-1/P-W/script.R",
-    "project_path": "script.R",
-    "type": "r_source",
+    "id": "07C9834D",
+    "path": "~/Documents/Documentos - iMac de Ana/UFTM 2025-1/P-W/README.md",
+    "project_path": "README.md",
+    "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1753734122809.0,
+    "created": 1753735412498.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "92,0",
-        "scrollLine": "1"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1753735406,
